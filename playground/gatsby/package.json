@@ -18,7 +18,7 @@
   "dependencies": {
     "@clerk/backend": "*",
     "@clerk/clerk-sdk-node": "*",
-    "gatsby": "5.4.2",
+    "gatsby": "5.9.1",
     "gatsby-plugin-clerk": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
